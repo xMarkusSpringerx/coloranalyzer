@@ -1,4 +1,5 @@
 # Coloranalyzer
+Coloranalyzer is a tool to get the average color of an image. You can use this for lazy loading of images.
 
 
 ## Installation
