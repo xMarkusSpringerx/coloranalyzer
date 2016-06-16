@@ -4,8 +4,7 @@ Coloranalyzer is a tool to get the average color of an image. You can use this f
 
 ##Demo
 
-![sky](https://cloud.githubusercontent.com/assets/2272176/16111060/2be54d98-33b1-11e6-825f-1f42605a96a7.jpg width="200")
-![vogel](https://cloud.githubusercontent.com/assets/2272176/16111061/2be55f36-33b1-11e6-8371-d31acf38cb89.jpg width="200")
+![collage](https://cloud.githubusercontent.com/assets/2272176/16112375/5fb90faa-33b7-11e6-9a34-b5147887790c.png)
 
 
 ## Installation
